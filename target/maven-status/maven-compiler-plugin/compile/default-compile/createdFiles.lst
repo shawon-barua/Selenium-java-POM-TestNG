@@ -1,0 +1,4 @@
+pages\CalculatorPage.class
+pages\CountryOptionPage.class
+variables\AllVariables.class
+variables\UrlLink.class

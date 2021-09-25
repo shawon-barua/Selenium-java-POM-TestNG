@@ -4,7 +4,7 @@ Web automation by selenium, java ,TestNG following Page Object Model
 1. Java should be installed 
 2. Maven will be needed
 
-#Test Implemeted
+# Test Implemeted
 1. Check if country change ,also change currency and rate 
 2. Check if buy and sell text box emptied when written on another
 3. Check if loss value showing correctly if loss occurs
@@ -18,7 +18,7 @@ Web automation by selenium, java ,TestNG following Page Object Model
 - Run `mvn clean` / From IntelliJ in maven lifecycle run 'clean' 
 - Run `mvn compile` / From IntelliJ in maven lifecycle run 'compile'
 - Run `mvn test` / From IntelliJ in maven lifecycle run 'test'
--  or un testcases
+-  or Run testcases from IDE project directory
 
 # Result : #
 Test result in :  `./target/surefire-reports/index.html`.
